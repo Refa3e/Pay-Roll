@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="RiderCppLiveTemplatesSettings" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=D52AB360ECF3F5429671919BB084F1E3/Shortcut/@EntryValue" value="JR7" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=D52AB360ECF3F5429671919BB084F1E3/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=D52AB360ECF3F5429671919BB084F1E3/Reformat/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=D52AB360ECF3F5429671919BB084F1E3/ShortenQualifiedReferences/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=D52AB360ECF3F5429671919BB084F1E3/Scope/=F6696F8185506F41B9C4252540BE9C18/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=D52AB360ECF3F5429671919BB084F1E3/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=D52AB360ECF3F5429671919BB084F1E3/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=D52AB360ECF3F5429671919BB084F1E3/Text/@EntryValue" value="#include &lt;iostream&gt;&#10;using namespace std;&#10;int main() {&#10;    freopen(&quot;input.txt&quot;, &quot;r&quot;, stdin);&#10;    freopen(&quot;output.txt&quot;, &quot;w&quot;, stdout);&#10;    freopen(&quot;errors.txt&quot;, &quot;w&quot;, stderr);&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;    return 0;&#10;}&#10;&#10;" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=DA22E8711BF9654297A599E3ED6BA2F3/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=DA22E8711BF9654297A599E3ED6BA2F3/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=DA22E8711BF9654297A599E3ED6BA2F3/Scope/=F6696F8185506F41B9C4252540BE9C18/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=DA22E8711BF9654297A599E3ED6BA2F3/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=DA22E8711BF9654297A599E3ED6BA2F3/ShortenQualifiedReferences/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=DA22E8711BF9654297A599E3ED6BA2F3/Shortcut/@EntryValue" value="jr7" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=DA22E8711BF9654297A599E3ED6BA2F3/Reformat/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=DA22E8711BF9654297A599E3ED6BA2F3/Text/@EntryValue" value="#include &lt;iostream&gt;&#10;using namespace std;&#10;&#10;&#10;int main() {&#10;    freopen(&quot;input.txt&quot;, &quot;r&quot;, stdin);&#10;    freopen(&quot;output.txt&quot;, &quot;w&quot;, stdout);&#10;    freopen(&quot;errors.txt&quot;, &quot;w&quot;, stderr);&#10;&#10;&#10;&#10;&#10;&#10;    return 0;&#10;}&#10;" type="string" />
+  </component>
+  <component name="CMakePythonSetting">
+    <option name="pythonIntegrationState" value="YES" />
+  </component>
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+</project>
